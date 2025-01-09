@@ -10,4 +10,4 @@ The following files/folders can be excluded:
 - `README.md`
 - `.git`
 - `.gitignore`
-- kitty.conf.bak
+- `kitty.conf.bak`

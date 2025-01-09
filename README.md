@@ -1,0 +1,2 @@
+# kitty
+My Kitty setup

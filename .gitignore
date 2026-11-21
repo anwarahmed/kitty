@@ -1,5 +1,8 @@
 # DS_Store
 .DS_Store
 
-# kitty backup
-kitty.conf.bak
+# Claude
+.claude
+
+# Backups Omarchy migrations leave beside kitty.conf (kitty.conf.bak.XXXXXX)
+kitty.conf.bak*
